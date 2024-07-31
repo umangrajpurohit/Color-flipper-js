@@ -1,0 +1,46 @@
+#container{
+    background-color: grey;
+    margin: 53px 630px;
+    width: 249px;
+    border-radius: 21px;
+    font-size: 23px;
+    height: 156px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border: 1px solid #000;
+    padding: 38px;
+    font-weight: bold;
+}
+
+
+.blue-background{
+    background-color: blue;
+    
+}
+#clickme{
+    background-color: rgb(216, 216, 116);
+    color: black;
+    font-size: 17px;
+    margin: 5px 58px;
+    height: 35px;
+    width: 112px;
+    font-weight: bold;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.container-fluid{
+    background-color: black;
+    margin: -8px;
+}
+.navbar-brand{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+
+.navbar{
+    --bs-navbar-active-color: rgb(255 253 253);
+}
